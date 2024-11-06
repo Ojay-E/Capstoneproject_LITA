@@ -25,7 +25,7 @@ The source of the data used here was provided by LITA incubaor hub which i belie
 We performed the following in the initial stage of data preparation.
   1. Data formatting
   2. Data cleaning by removing blanks and duplicates.
-  3. Handling missing vvariables.
+  3. Handling missing variables.
   4. Data loading and inspection.
 
 ### Exploratory Data Analysis
