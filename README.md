@@ -4,9 +4,9 @@
 
 ### Project overview
 ---
-In this project, I am analyzing the sales performance of a retail store. To explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends.By analysing the various parameters in the data receivedc, the goal is to produce an interactive Power BI dashboard that highlights these findings to enable us make reasonable decisions around our data from the insights gotten.
+In this project, I am analyzing the sales performance of a retail store. To explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. By analysing the various parameters in the data received, the goal is to produce an interactive Power BI dashboard that highlights these findings to enable us make reasonable decisions around our data from the insights gotten.
 
-#### Data source
+#### Data source [LITA Capstone Dataset updated.xlsx](https://github.com/user-attachments/files/17654035/LITA.Capstone.Dataset.updated.xls)
 ---
 The source of the data used here was provided by LITA incubaor hub which i believe can be freely downloaded from an open source online such as kaggle or any other repository site.
 
