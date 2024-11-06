@@ -39,4 +39,5 @@ The exploratory data analysis involved in exploring the data to answer some ques
 
 ### Data Visualizations
 ---
+[LITA PROJECT.Pivot and power BI Visualizations.pptx](https://github.com/user-attachments/files/17653965/LITA.PROJECT.Pivot.and.power.BI.Visualizations.pptx)
 
